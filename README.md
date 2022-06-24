@@ -1,4 +1,5 @@
 # Домашнее задание к занятию «2.3. Patterns»
+[![Build status](https://ci.appveyor.com/api/projects/status/7npgg25i4njxmp1e?svg=true)](https://ci.appveyor.com/project/SvarogDoc/testmode)
 
 ## Задача №2 - Тестовый режим
 
